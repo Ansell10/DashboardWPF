@@ -25,3 +25,30 @@ E:\smt5\PBKK\Dashboard\Dashboard\bin\Debug\net7.0-windows\Microsoft.Xaml.Behavio
 E:\smt5\PBKK\Dashboard\Dashboard\obj\Debug\net7.0-windows\Dashboard.csproj.CopyComplete
 E:\smt5\PBKK\Dashboard\Dashboard\obj\Debug\net7.0-windows\App.baml
 E:\smt5\PBKK\Dashboard\Dashboard\bin\Debug\net7.0-windows\De.TorstenMandelkow.MetroChart.dll
+E:\smt5\PBKK\Tugas 4 - DashboardWPF\DashboardWPF\Dashboard\bin\Debug\net7.0-windows\Dashboard.exe
+E:\smt5\PBKK\Tugas 4 - DashboardWPF\DashboardWPF\Dashboard\bin\Debug\net7.0-windows\Dashboard.deps.json
+E:\smt5\PBKK\Tugas 4 - DashboardWPF\DashboardWPF\Dashboard\bin\Debug\net7.0-windows\Dashboard.runtimeconfig.json
+E:\smt5\PBKK\Tugas 4 - DashboardWPF\DashboardWPF\Dashboard\bin\Debug\net7.0-windows\Dashboard.dll
+E:\smt5\PBKK\Tugas 4 - DashboardWPF\DashboardWPF\Dashboard\bin\Debug\net7.0-windows\Dashboard.pdb
+E:\smt5\PBKK\Tugas 4 - DashboardWPF\DashboardWPF\Dashboard\bin\Debug\net7.0-windows\MaterialDesignColors.dll
+E:\smt5\PBKK\Tugas 4 - DashboardWPF\DashboardWPF\Dashboard\bin\Debug\net7.0-windows\MaterialDesignThemes.Wpf.dll
+E:\smt5\PBKK\Tugas 4 - DashboardWPF\DashboardWPF\Dashboard\bin\Debug\net7.0-windows\Microsoft.Xaml.Behaviors.dll
+E:\smt5\PBKK\Tugas 4 - DashboardWPF\DashboardWPF\Dashboard\bin\Debug\net7.0-windows\De.TorstenMandelkow.MetroChart.dll
+E:\smt5\PBKK\Tugas 4 - DashboardWPF\DashboardWPF\Dashboard\obj\Debug\net7.0-windows\Dashboard.csproj.AssemblyReference.cache
+E:\smt5\PBKK\Tugas 4 - DashboardWPF\DashboardWPF\Dashboard\obj\Debug\net7.0-windows\MainWindow.g.cs
+E:\smt5\PBKK\Tugas 4 - DashboardWPF\DashboardWPF\Dashboard\obj\Debug\net7.0-windows\App.g.cs
+E:\smt5\PBKK\Tugas 4 - DashboardWPF\DashboardWPF\Dashboard\obj\Debug\net7.0-windows\Dashboard_MarkupCompile.cache
+E:\smt5\PBKK\Tugas 4 - DashboardWPF\DashboardWPF\Dashboard\obj\Debug\net7.0-windows\Dashboard_MarkupCompile.lref
+E:\smt5\PBKK\Tugas 4 - DashboardWPF\DashboardWPF\Dashboard\obj\Debug\net7.0-windows\App.baml
+E:\smt5\PBKK\Tugas 4 - DashboardWPF\DashboardWPF\Dashboard\obj\Debug\net7.0-windows\MainWindow.baml
+E:\smt5\PBKK\Tugas 4 - DashboardWPF\DashboardWPF\Dashboard\obj\Debug\net7.0-windows\Dashboard.g.resources
+E:\smt5\PBKK\Tugas 4 - DashboardWPF\DashboardWPF\Dashboard\obj\Debug\net7.0-windows\Dashboard.GeneratedMSBuildEditorConfig.editorconfig
+E:\smt5\PBKK\Tugas 4 - DashboardWPF\DashboardWPF\Dashboard\obj\Debug\net7.0-windows\Dashboard.AssemblyInfoInputs.cache
+E:\smt5\PBKK\Tugas 4 - DashboardWPF\DashboardWPF\Dashboard\obj\Debug\net7.0-windows\Dashboard.AssemblyInfo.cs
+E:\smt5\PBKK\Tugas 4 - DashboardWPF\DashboardWPF\Dashboard\obj\Debug\net7.0-windows\Dashboard.csproj.CoreCompileInputs.cache
+E:\smt5\PBKK\Tugas 4 - DashboardWPF\DashboardWPF\Dashboard\obj\Debug\net7.0-windows\Dashboard.csproj.CopyComplete
+E:\smt5\PBKK\Tugas 4 - DashboardWPF\DashboardWPF\Dashboard\obj\Debug\net7.0-windows\Dashboard.dll
+E:\smt5\PBKK\Tugas 4 - DashboardWPF\DashboardWPF\Dashboard\obj\Debug\net7.0-windows\refint\Dashboard.dll
+E:\smt5\PBKK\Tugas 4 - DashboardWPF\DashboardWPF\Dashboard\obj\Debug\net7.0-windows\Dashboard.pdb
+E:\smt5\PBKK\Tugas 4 - DashboardWPF\DashboardWPF\Dashboard\obj\Debug\net7.0-windows\Dashboard.genruntimeconfig.cache
+E:\smt5\PBKK\Tugas 4 - DashboardWPF\DashboardWPF\Dashboard\obj\Debug\net7.0-windows\ref\Dashboard.dll

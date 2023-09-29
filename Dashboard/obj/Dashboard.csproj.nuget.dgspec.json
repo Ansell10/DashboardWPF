@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "E:\\smt5\\PBKK\\Dashboard\\Dashboard\\Dashboard.csproj": {}
+    "E:\\smt5\\PBKK\\Tugas 4 - DashboardWPF\\DashboardWPF\\Dashboard\\Dashboard.csproj": {}
   },
   "projects": {
-    "E:\\smt5\\PBKK\\Dashboard\\Dashboard\\Dashboard.csproj": {
+    "E:\\smt5\\PBKK\\Tugas 4 - DashboardWPF\\DashboardWPF\\Dashboard\\Dashboard.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\smt5\\PBKK\\Dashboard\\Dashboard\\Dashboard.csproj",
+        "projectUniqueName": "E:\\smt5\\PBKK\\Tugas 4 - DashboardWPF\\DashboardWPF\\Dashboard\\Dashboard.csproj",
         "projectName": "Dashboard",
-        "projectPath": "E:\\smt5\\PBKK\\Dashboard\\Dashboard\\Dashboard.csproj",
+        "projectPath": "E:\\smt5\\PBKK\\Tugas 4 - DashboardWPF\\DashboardWPF\\Dashboard\\Dashboard.csproj",
         "packagesPath": "C:\\Users\\SWIFT\\.nuget\\packages\\",
-        "outputPath": "E:\\smt5\\PBKK\\Dashboard\\Dashboard\\obj\\",
+        "outputPath": "E:\\smt5\\PBKK\\Tugas 4 - DashboardWPF\\DashboardWPF\\Dashboard\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

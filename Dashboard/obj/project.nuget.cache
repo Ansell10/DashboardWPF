@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "jtXAk22DDrRYKUDPbydSW6exKQXg0L/t3Dr/4xsS9KD/4v/x5UGDRqC99qSyMwFoSwkZvY8DjRmiNU54oA7vjg==",
+  "dgSpecHash": "c6c8+kX4+wAfUuBXcQHAcJ9+PmW1/pZsBn2t1/b99KNlLbikPosX+T/qQbO31aGIo4INK2VzkT2LpvgExZ9n4A==",
   "success": true,
-  "projectFilePath": "E:\\smt5\\PBKK\\Dashboard\\Dashboard\\Dashboard.csproj",
+  "projectFilePath": "E:\\smt5\\PBKK\\Tugas 4 - DashboardWPF\\DashboardWPF\\Dashboard\\Dashboard.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\SWIFT\\.nuget\\packages\\materialdesigncolors\\2.1.4\\materialdesigncolors.2.1.4.nupkg.sha512",
     "C:\\Users\\SWIFT\\.nuget\\packages\\materialdesignthemes\\4.9.0\\materialdesignthemes.4.9.0.nupkg.sha512",

@@ -4,11 +4,11 @@
 winexe
 C#
 .cs
-E:\smt5\PBKK\Tugas 4 - DashboardWPF\DashboardWPF\Dashboard\obj\Debug\net7.0-windows\
+E:\smt5\PBKK\Tugas 4 - DashboardWPF\DashboardWPF\Dashboard\obj\Release\net7.0-windows\
 Dashboard
 none
 false
-TRACE;DEBUG;NET;NET7_0;NETCOREAPP
+TRACE;RELEASE;NET;NET7_0;NETCOREAPP
 E:\smt5\PBKK\Tugas 4 - DashboardWPF\DashboardWPF\Dashboard\App.xaml
 11407045341
 
@@ -16,5 +16,5 @@ E:\smt5\PBKK\Tugas 4 - DashboardWPF\DashboardWPF\Dashboard\App.xaml
 202730281887
 MainWindow.xaml;
 
-False
+True
 
